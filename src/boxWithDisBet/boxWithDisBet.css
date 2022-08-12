@@ -1,0 +1,130 @@
+.box {
+    margin-top: 60px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.boxContent {
+    width: 440px;
+    height: 350px;
+    background-color: rgb(49, 49, 49);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin-top: -15px;
+}
+
+.player{
+    width: 750px;
+    height: 400px;
+    margin-bottom: 16px;
+}
+
+.boxTitle{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.imgOfConor{
+    width: 145px;
+    height: 110px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.imgOfDustin{
+    width: 145px;
+    height: 110px;
+    margin-left: 270px;
+    margin-top: -110px;
+}
+
+.vs{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-top: -50px;
+    margin-right: 10px;
+}
+
+.Conor{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-top: 33px;
+    margin-right: 253px;
+}
+
+.Dustin{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-left: 241px;
+    margin-top: -18px;
+}
+
+.lock{
+    width: 32px;
+    height: 35px;
+}
+
+.betWithLock{
+    background-color: #6c757d;
+    border: 0;
+    border-radius: 5px;
+    width: 111px;
+    height: 56px;
+    margin-left: 285px;
+    margin-top: -56px;
+}
+
+.disBet-157{
+    font-family: Gilroy-bold, sans-serif;
+    font-size: 18px;
+    background-color: #6c757d;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    width: 111px;
+    height: 56px;
+    font-size: 30px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+

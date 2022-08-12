@@ -1,0 +1,185 @@
+.footerBox {
+    margin-top: -630px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.footerBoxContent {
+    background-color: rgb(49, 49, 49);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px 22px 25px 22px;
+    margin-top: 650px;
+}
+
+.time10{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.57px;
+    color: #fff;
+    margin-right: 1150px;
+}
+
+.time18{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 0.57px;
+    color: #fff;
+    margin-right: 1147px;
+    margin-top: 43px;
+}
+
+.footerConor{
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-right: 660px;
+}
+
+.footerConor1{
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-right: 660px;
+    margin-top: 5px;
+}
+
+.today{
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-right: 1131px;
+    margin-top: 10px;
+}
+
+.date23{
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-right: 1150px;
+    margin-top: 5px;
+}
+
+.footerDustin{
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+    margin-left: 750px;
+    margin-top: -35px;
+}
+
+.footerImgOfConor{
+    width: 80px;
+    height: 60px;
+    margin-left: 370px;
+    margin-top: -45px;
+}
+
+.footerImgOfConor1{
+    width: 80px;
+    height: 60px;
+    margin-left: 370px;
+    margin-top: -45px;
+}
+
+.footerBet{
+    font-family: Gilroy-bold, sans-serif;
+    background-color: #6c757d;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    width: 90px;
+    height: 54px;
+    font-size: 26px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-left: 485px;
+    margin-top: -48px;
+}
+
+.redVS{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: red;
+    margin-top: -45px;
+    margin-left: 50px;
+}
+
+.footerBet256{
+    font-family: Gilroy-bold, sans-serif;
+    background-color: #6c757d;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    width: 90px;
+    height: 54px;
+    font-size: 26px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-left: 665px;
+    margin-top: -54px;
+}
+
+.footerImgOfDustin{
+    width: 80px;
+    height: 60px;
+    margin-left: 795px;
+    margin-top: -60px;
+}
+
