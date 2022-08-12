@@ -1,0 +1,397 @@
+@media (max-width: 1252px){
+
+.footerBoxContent{
+    width: 995px;
+}
+
+.footerImgOfConor{
+    margin-left: 270px;
+}
+
+.footerImgOfConor1{
+    margin-left: 270px;
+}
+
+.footerBet{
+    margin-left: 380px;
+}
+
+.footerBet256{
+    margin-left: 580px;
+}
+
+.footerImgOfDustin{
+    margin-left: 700px;
+}
+
+
+}
+
+@media (max-width: 1063px){
+
+.footerBoxContent{
+    width: 890px;
+}
+
+.footerConor{
+    margin-left: 100px;
+}
+
+.footerConor1{
+    margin-left: 100px;
+}
+
+.footerImgOfConor{
+    margin-left: 250px;
+}
+
+.footerImgOfConor1{
+    margin-left: 250px;
+}
+
+.footerBet{
+    margin-left: 345px;
+}
+
+.footerBet256{
+    margin-left: 510px;
+}
+
+.footerImgOfDustin{
+    margin-left: 620px;
+}
+
+.footerDustin{
+    margin-left: 660px;
+}
+
+}
+
+@media (max-width: 950px){
+
+.footerBoxContent{
+    width: 521px;
+    height: 500px;
+}
+
+.time10{
+    font-size: 22px;
+    margin-left: 180px;
+}
+
+.today{
+    font-size: 22px;
+    margin-left: 260px;
+    margin-top: -160px;
+}
+
+.footerImgOfConor{
+    width: 135px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.footerConor{
+    font-size: 18px;
+    width: 150px;
+    margin-top: 118px;
+    margin-bottom: -142px;
+    margin-left: 53px;
+}
+
+.footerBet{
+    width: 105px;
+    margin-left: 74px;
+    margin-top: 49px;
+}
+
+.redVS{
+    margin-left: 0px;
+}
+
+.footerImgOfDustin{
+    width: 135px;
+    height: 100px;
+    margin-top: -200px;
+    margin-left: 330px;
+}
+
+.footerDustin{
+    font-size: 18px;
+    width: 150px;
+    margin-top: 13px;
+    margin-left: 320px;
+}
+
+.footerBet256{
+    width: 105px;
+    margin-left: 343px;
+}
+
+.footerImgOfConor1{
+    width: 135px;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+
+.time18{
+    font-size: 22px;
+    margin-left: 190px;
+    margin-top: 250px;
+}
+
+.date23{
+    font-size: 22px;
+    margin-left: 270px;
+    margin-top: -162px;
+}
+
+.footerConor1{
+    font-size: 18px;
+    width: 150px;
+    margin-top: 118px;
+    margin-bottom: -130px;
+    margin-left: 53px;
+}
+
+
+}
+
+@media (max-width: 582px){
+
+.footerBoxContent{
+    width: 416px;
+}
+
+.footerImgOfConor{
+    margin-left: 5px;
+}
+
+.footerConor{
+    margin-left: 0px;
+}
+
+.footerImgOfConor1{
+    margin-left: 5px;
+}
+
+.footerConor1{
+    margin-left: 0px;
+}
+
+.footerBet{
+    margin-left: 20px;
+}
+
+.time10{
+    margin-left: 140px;
+}
+
+.today{
+    margin-left: 220px;
+}
+
+.footerImgOfDustin{
+    margin-left: 280px;
+
+}
+
+.time18{
+    margin-left: 150px;
+}
+
+.date23{
+    margin-left: 230px;
+}
+
+.footerDustin{
+    margin-left: 273px;
+}
+
+.footerBet256{
+    margin-left: 295px;
+}
+
+}
+
+@media (max-width: 473px){
+
+.footerBoxContent{
+    width: 357px;
+}
+
+.time10{
+    margin-left: 100px;
+}
+
+.today{
+    margin-left: 180px;
+}
+
+.time18{
+    margin-left: 110px;
+}
+
+.date23{
+    margin-left: 200px;
+}
+
+.footerImgOfDustin{
+    margin-left: 220px;
+}
+
+.footerDustin{
+    margin-left: 213px;
+}
+
+.footerBet256{
+    margin-left: 236px
+}
+
+}
+
+@media (max-width: 450px){
+
+.footerBoxContent{
+    width: 307px;
+}
+
+.footerImgOfConor{
+    margin-left: -10px;
+}
+
+.footerConor{
+    margin-left: -15px;
+}
+
+.footerBet{
+    margin-left: 5px;
+}
+
+.footerImgOfConor1{
+    margin-left: -10px;
+}
+
+.footerConor1{
+    margin-left: -15px;
+}
+
+.footerImgOfDustin{
+    margin-left: 185px;
+}
+
+.footerDustin{
+    margin-left: 178px;
+}
+
+.footerBet256{
+    margin-left: 200px;
+}
+
+.time10{
+    margin-left: 70px;
+}
+
+.today{
+    margin-left: 150px;
+}
+
+.time18{
+    margin-left: 85px;
+}
+
+.date23{
+    margin-left: 170px;
+}
+
+
+}
+
+@media (max-width: 365px){
+
+.footerBoxContent{
+    width: 237px;
+    height: 450px;
+}
+
+.footerImgOfConor{
+    width: 100px;
+    height: 73px;
+}
+
+.footerImgOfConor1{
+    width: 100px;
+    height: 73px;
+    margin-top: -30px;
+}
+
+.footerImgOfDustin{
+    width: 100px;
+    height: 73px;
+    margin-left: 150px;
+    margin-top: -157px;
+}
+
+.footerConor{
+    font-size: 15px;
+    margin-top: 95px;
+    margin-bottom: -110px;
+    margin-left: -35px;
+
+}
+
+.footerConor1{
+    font-size: 15px;
+    margin-top: 60px;
+    margin-bottom: -68px;
+    margin-left: -35px;
+}
+
+.footerDustin{
+    font-size: 15px;
+    margin-left: 126px;
+    margin-top: 9px;
+}
+
+.footerBet{
+    width: 90px;
+    height: 50px;
+    margin-left: -5px;
+    margin-top: 40px;
+}
+
+.footerBet256{
+    width: 90px;
+    height: 50px;
+    margin-left: 155px;
+    margin-top: -50px;
+}
+
+.time10{
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.today{
+    font-size: 20px;
+    margin-top: -134px;
+    margin-left: 115px;
+}
+
+.time18{
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 210px;
+    margin-bottom: 38px;
+}
+
+.date23{
+    font-size: 20px;
+    margin-left: 130px;
+    margin-top: -138px;
+}
+
+
+}

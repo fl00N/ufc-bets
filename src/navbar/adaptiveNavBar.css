@@ -1,0 +1,81 @@
+@media (max-width: 810px){
+
+.Navbar {
+    height: 170px;
+    flex-direction: column;
+
+}
+
+.home{
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+.news{
+    margin-bottom: 20px;
+
+}
+
+.live{
+    margin-bottom: 20px;
+    margin-right: 0px;
+
+}
+
+.logo{
+    margin-top: 25px;
+    
+}
+
+
+}
+
+@media (max-width: 810px){
+
+.home{
+    font-size: 16px;
+}
+
+.news{
+    font-size: 16px;
+
+}
+
+.live{
+    width: 100px;
+}
+
+}
+
+@media (max-width: 382px){
+
+.home{
+    margin-right: 15px;
+}
+
+.news{
+    margin-right: 15px;
+}
+
+
+}
+
+@media (max-width: 332px){
+
+    .home{
+        font-size: 14px;
+    }
+    
+    .news{
+        font-size: 14px;
+    }
+
+    .live{
+        font-size: 14px;
+        width: 80px;
+        height: 50px;
+    }
+    
+    
+    }
+    

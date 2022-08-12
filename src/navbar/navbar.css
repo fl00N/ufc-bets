@@ -1,0 +1,157 @@
+.Navbar {
+    height: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(49, 49, 49);
+}
+  
+
+.logo{
+    width: 250px;
+    height: 40px;
+    margin-left: 46px;
+}
+
+.home{
+    font-family: 'Gilroy-bold', sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    line-height: 1.75;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-color: currentColor;
+    font-size: 18px;
+    margin-right: 40px;
+}
+
+.home:hover{
+    color: red;
+}
+
+.news{
+    font-family: 'Gilroy-bold', sans-serif;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    line-height: 1.75;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-color: currentColor;
+    font-size: 18px;
+    margin-right: 40px;
+}
+
+.news:hover{
+    color: red;
+}
+
+.live{
+    width: 125px;
+    height: 55px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    line-height: 1.75;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-color: currentColor;
+    font-size: 18px;
+    margin-right: 97px;
+}
+
+.live:hover{
+    background-color: #d32f2f;
+}

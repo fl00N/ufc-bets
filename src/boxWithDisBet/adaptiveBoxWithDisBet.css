@@ -1,0 +1,343 @@
+@media (max-width: 1252px){
+    
+    .player{
+        width: 600px;
+        height: 340px;
+        margin-top: 1px;
+
+    }
+
+    .boxContent{
+        width: 390px;
+        height: 290px;
+    }
+
+    .imgOfConor{
+        margin-left: -3.5px;
+    }
+
+    .disBet-157{
+        margin-left: 15px;
+    }
+
+    .imgOfDustin{
+        margin-left: 245px;
+    }
+
+    .betWithLock{
+        margin-left: 260px;
+    }
+
+}
+
+@media (max-width: 1063px){
+    
+    .player{
+        width: 564px;
+        height: 310px;
+        margin-top: 1px;
+
+    }
+
+    .boxContent{
+        width: 320px;
+        height: 260px;
+    }
+
+    .imgOfConor{
+        width: 125px;
+        height: 95px;
+        margin-top: 20px;
+        margin-left: -3.5px;
+    }
+
+    .disBet-157{
+        margin-left: 4px;
+    }
+
+    .imgOfDustin{
+        width: 125px;
+        height: 95px;
+        margin-top: -94px;
+        margin-left: 203px;
+    }
+
+    .betWithLock{
+        margin-left: 210px;
+    }
+
+    .Conor{
+        width: 150px;
+        font-size: 16px;
+        margin-left: -15px;
+        margin-top: 25px;
+    }
+
+    .Dustin{
+        width: 150px;
+        font-size: 16px;
+        margin-left: 192px;
+        margin-top: -16px;
+    }
+
+    .vs{
+        font-size: 24px;
+        margin-left: 10px;
+        margin-top: -40px;
+    }
+
+}
+
+@media (max-width: 950px){
+
+    .box{
+        flex-direction: column;
+    }
+
+    .boxContent{
+        width: 514px;
+        margin-top: -16.6px;
+        height: 300px;
+    }
+
+    .imgOfDustin{
+        margin-left: 350px;
+        margin-top: -120px;
+        width: 160px;
+        height: 120px;
+    }
+
+    .Dustin{
+        margin-left: 353px;
+        font-size: 20px;
+        margin-top: -20px;
+    }
+
+    .betWithLock{
+        margin-left: 373px;
+    }
+
+    .imgOfConor{
+        margin-left: 10px;
+        width: 160px;
+        height: 120px;
+    }
+
+    .Conor{
+        width: 170px;
+        margin-left: 5px;
+        margin-top: 22px;
+        font-size: 20px;
+    }
+
+    .disBet-157{
+        margin-left: 35px;
+    }
+
+    .vs{
+        font-size: 32px;
+    }
+
+}
+
+@media (max-width: 582px){
+
+.player{
+    width: 460px;
+    height: 250px;
+}
+
+.boxContent{
+    width: 410px;
+}
+
+.Dustin{
+    margin-left: 265px;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+.betWithLock{
+    margin-left: 285px;
+}
+
+.imgOfDustin{
+    margin-left: 260px;
+    margin-top: -120px;
+    width: 160px;
+    height: 120px;
+}
+
+.imgOfConor{
+    margin-left: -10px;
+    width: 160px;
+    height: 120px;
+}
+
+.Conor{
+    width: 170px;
+    margin-left: -14px;
+    margin-top: 22px;
+    font-size: 20px;
+}
+
+.disBet-157{
+    margin-left: 16px;
+}
+
+
+}
+
+@media (max-width: 473px){
+
+.player{
+    width: 400px;
+    height: 210px;
+}
+
+.boxContent{
+    width: 350px;
+}
+
+.imgOfDustin{
+    width: 145px;
+    height: 110px;
+    margin-left: 215px;
+}
+
+.imgOfConor{
+    width: 145px;
+    height: 110px;
+    margin-bottom: 10px;
+}
+
+.Dustin{
+    margin-left: 213px;
+}
+
+.betWithLock{
+    margin-left: 234px;
+}
+
+.disBet-157{
+    margin-left: 10px;
+}
+
+.Conor{
+    margin-left: -20px;
+}
+
+}
+
+@media (max-width: 450px){
+
+.player{
+    width: 350px;
+    height: 190px;
+}
+
+.boxContent{
+    width: 300px;
+}
+
+.imgOfDustin{
+    width: 120px;
+    height: 95px;
+    margin-left: 195px;
+}
+
+.imgOfConor{
+    width: 120px;
+    height: 95px;
+    margin-bottom: 25px;
+
+}
+
+.Dustin{
+    font-size: 16px;
+    margin-left: 180px;
+    margin-top: -16px;
+}
+
+.Conor{
+    font-size: 16px;
+    margin-left: -33px;
+}
+
+.disBet-157{
+    margin-left: -5px;
+}
+
+.betWithLock{
+    margin-left: 200px;
+}
+
+}
+
+
+@media (max-width: 365px){
+
+.player{
+    width: 280px;
+    height: 160px;
+
+}
+
+.boxContent{
+    width: 230px;
+    height: 240px;
+}
+
+.boxTitle{
+    font-size: 22px;
+}
+
+.imgOfConor{
+    width: 100px;
+    height: 73px;
+    margin-bottom: 48px;
+}
+
+.imgOfDustin{
+    margin-left: 145px;
+    width: 100px;
+    height: 73px;
+}
+
+.Conor{
+    font-size: 14px;
+    margin-left: -45px;
+    margin-top: 25px;
+}
+
+.Dustin{
+    font-size: 14px;
+    margin-left: 120px;
+    margin-top: -14px;
+}
+
+.disBet-157{
+    width: 90px;
+    height: 50px;
+    font-size: 26px;
+}
+
+.betWithLock{
+    margin-left: 150px;
+    width: 90px;
+    height: 50px;
+    margin-top: -51px;
+}
+
+.lock{
+    width: 25px;
+    height: 27px;
+}
+
+.vs{
+    font-size: 23px;
+}
+
+
+
+}
