@@ -1,0 +1,163 @@
+@media (max-width: 1163px){
+
+.modalContainer3{
+    width: 800px;
+}
+
+.rectangle{
+    width: 800px;
+    margin-left: 0px;
+}
+
+.ConorDustin{
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.date{
+    margin-left: -220px;
+}
+
+.money{
+    margin-left: 580px;
+}
+
+.minusMoney{
+    margin-left: 580px;
+}
+
+}
+
+@media (max-width: 868px){
+
+.modalContainer3{
+    width: 600px;
+}
+
+.rectangle{
+    width: 600px;
+    margin-left: 0px;
+}
+
+.ConorDustin{
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.date{
+    margin-left: -220px;
+}
+
+.money{
+    margin-left: 390px;
+}
+
+.minusMoney{
+    margin-left: 390px;
+}
+
+}
+
+@media (max-width: 660px){
+
+.modalContainer3{
+    width: 400px;
+}
+
+.rectangle{
+    width: 400px;
+    margin-left: 0px;
+}
+
+.ConorDustin{
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.date{
+    margin-left: -220px;
+}
+
+.money{
+    margin-left: 200px;
+}
+
+.minusMoney{
+    margin-left: 200px;
+}
+
+}
+
+@media (max-width: 561px){
+
+.pagination{
+    width: 31px;
+}
+
+}
+
+@media (max-width: 457px){
+
+.modalContainer3{
+    width: 250px;
+}
+
+.rectangle{
+    width: 250px;
+    margin-left: 0px;
+}
+
+.ConorDustin{
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.date{
+    margin-left: -147px;
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.time{
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.coef{
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.money{
+    margin-left: 79px;
+    font-size: 16px;
+}
+
+.minusMoney{
+    margin-left: 79px;
+    font-size: 16px;
+}
+
+.pagination{
+    margin-left: 0px;
+    margin-right: 4px;
+}
+
+
+}
+
+@media (max-width: 360px){
+
+.modalContainer3 .title{
+    margin-top: 10px;
+}
+
+.modalContainer3 {
+    height: 650px;
+}
+
+#firstRectangle{
+margin-top: 20px;
+}
+
+}

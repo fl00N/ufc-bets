@@ -1,0 +1,40 @@
+@media (max-width: 411px){
+
+.modalContainer1{
+    width: 300px;
+}
+
+.modalContainer1 .title1{
+    margin-left: 50px;
+}
+
+.amount-input{
+    width: 270px;
+}
+
+.topUp{
+    width: 300px;
+}
+
+}
+
+@media (max-width: 363px){
+
+    .modalContainer1{
+        width: 250px;
+    }
+    
+    .modalContainer1 .title1{
+        margin-left: 30px;
+        font-size: 13px;
+    }
+    
+    .amount-input{
+        width: 220px;
+    }
+    
+    .topUp{
+        width: 250px;
+    }
+    
+    }

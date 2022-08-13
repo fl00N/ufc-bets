@@ -1,0 +1,424 @@
+@media (max-width: 1030px){
+
+.historyBets{
+    width: 200px;
+    font-size: 14px;
+}
+
+.replenish{
+    width: 200px;
+    font-size: 14px;
+}
+
+.withdraw{
+    width: 100px;
+    font-size: 14px;
+}
+
+}
+
+@media (max-width: 836px){
+
+.historyBets{
+    width: 170px;
+    font-size: 14px;
+}
+
+.replenish{
+    width: 185px;
+    font-size: 14px;
+}
+
+.withdraw{
+    width: 100px;
+    font-size: 14px;
+}
+
+}
+
+
+@media (max-width: 781px){
+
+.navbar{
+    height: 150px;
+    flex-direction: column;
+}
+
+.weHaveBets{
+    width: 300px;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+.signUp{
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+.logIn{
+    margin-bottom: 20px;
+    width: 203px;
+    height: 55px;
+}
+
+.historyBets{
+    width: 170px;
+    font-size: 14px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+.replenish{
+    width: 185px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.withdraw{
+    width: 120px;
+    font-size: 14px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.balance{
+    margin-top: 25px;
+    margin-right: 30px;
+}
+    
+}
+
+@media (max-width: 625px){
+
+.signUp{
+    margin-left: 0px;
+    
+}
+
+.logIn{
+    margin-right: 0px;
+}
+
+}
+
+@media (max-width: 563px){
+
+.modalContainer{
+    width: 400px;
+}
+
+.label-email{
+    margin-left: 35px;
+}
+
+.label-password{
+    margin-left: 35px;
+}
+
+.label-password2{
+    margin-left: 35px;
+}
+
+input{
+    width: 387px;
+    margin-left: 35px;
+}
+
+.registration{
+    width: 417px;
+}
+
+.logInModalContainer{
+    width: 400px;
+}
+
+.logInEmail{
+    margin-left: -7px;
+}
+
+.logInPassword{
+    margin-left: -7px;
+}
+
+.logInModal{
+    width: 417px;
+    margin-left: -10px;
+}
+
+}
+
+@media (max-width: 526px){
+
+    .historyBets{
+        width: 130px;
+        font-size: 14px;
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    
+    .replenish{
+        width: 150px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    
+    .withdraw{
+        width: 95px;
+        font-size: 14px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 461px){
+
+.modalContainer{
+    width: 350px;
+}
+
+.label-email{
+    margin-left: 60px;
+}
+
+.label-password{
+    margin-left: 60px;
+}
+
+.label-password2{
+    margin-left: 60px;
+}
+
+input{
+    width: 337px;
+    margin-left: 60px;
+}
+
+.registration{
+    width: 367px;
+}
+
+.logInModalContainer{
+    width: 350px;
+}
+
+.logInEmail{
+    margin-left: -7px;
+}
+
+.logInPassword{
+    margin-left: -7px;
+}
+
+.logInModal{
+    width: 367px;
+    margin-left: -10px;
+}
+    
+}
+
+@media (max-width: 441px){
+
+.signUp{
+    width: 170px;
+    font-size: 18px;
+    
+}
+
+.logIn{
+    width: 170px;
+}
+
+}
+
+@media (max-width: 526px){
+
+    .historyBets{
+        width: 110px;
+        font-size: 14px;
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    
+    .replenish{
+        width: 130px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    
+    .withdraw{
+        width: 80px;
+        font-size: 14px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+}
+
+@media (max-width: 374px){
+
+.signUp{
+    width: 150px;
+    font-size: 16px;
+    
+}
+
+.logIn{
+    width: 150px;
+}
+
+.historyBets{
+    width: 100px;
+    font-size: 14px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+.replenish{
+    width: 120px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.withdraw{
+    width: 70px;
+    font-size: 14px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+}
+
+@media (max-width: 408px){
+
+.modalContainer{
+    width: 300px;
+}
+
+.label-email{
+    margin-left: 85px;
+}
+
+.label-password{
+    margin-left: 85px;
+}
+
+.label-password2{
+    margin-left: 85px;
+}
+
+input{
+    width: 287px;
+    margin-left: 85px;
+}
+
+.registration{
+    width: 317px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.logInModalContainer{
+    width: 300px;
+}
+
+.logInModal{
+    width: 317px;
+    margin-left: -10px;
+}
+
+}
+
+@media (max-width: 361px){
+
+.modalContainer{
+    width: 250px;
+}
+
+.label-email{
+    margin-left: 109px;
+}
+
+.label-password{
+    margin-left: 109px;
+}
+
+.label-password2{
+    margin-left: 109px;
+}
+
+input{
+    width: 237px;
+    margin-left: 109px;
+}
+
+.registration{
+    width: 267px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.title{
+    font-size: 13px;
+}
+
+.titleCloseBtn button{
+    font-size: 18px;
+}
+
+.logInModalContainer{
+    width: 250px;
+}
+
+.logInModal{
+    width: 267px;
+    margin-left: -10px;
+}
+
+}
+
+@media (max-width: 341px){
+
+.historyBets{
+    width: 90px;
+    font-size: 14px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+
+.replenish{
+    width: 110px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.withdraw{
+    width: 60px;
+    font-size: 14px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+}
+
+@media (max-width: 332px){
+
+.signUp{
+    width: 130px;
+    font-size: 14px;
+    
+}
+
+.logIn{
+    width: 130px;
+    font-size: 14px;
+}
+
+.weHaveBets{
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+
+}
+

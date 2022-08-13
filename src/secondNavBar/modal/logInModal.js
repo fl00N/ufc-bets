@@ -27,7 +27,7 @@ function LogInModal({ setOpenModal1 }) {
       name: "password",
       type: "password",
       placeholder: "Пароль",
-      errorMessage_password:"Пароль должен состоять из 8-20 символов и содержать как минимум 1 букву, 1 цифру и 1 специальный символ!",
+      errorMessage_password:"Неправильный пароль!",
       label_password: "Пароль",
       pattern: `^(?=.*[0-9])(?=.*[a-zA-Z])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{8,20}$`,
       required: true,
@@ -46,7 +46,7 @@ function LogInModal({ setOpenModal1 }) {
     return (
       <div className="modalBackground">
         <div className="logInModalContainer">
-          <div className="titleCloseBtn">
+          <div className="titleCloseBtn1">
             <button
               onClick={() => {
                 setOpenModal1(false);

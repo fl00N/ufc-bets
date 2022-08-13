@@ -1,0 +1,180 @@
+@media (max-width: 563px){
+
+.amount-input1{
+    margin-left: 0px;
+}
+
+.wallet-input{
+    margin-left: 0px;
+}
+
+}
+
+@media (max-width: 480px){
+
+.modalContainer2{
+    width: 340px;
+}
+
+.qiwi{
+    width: 120px;
+    height: 70px;
+}
+
+.visa{
+    width: 120px;
+    height: 70px;
+}
+
+.qiwi2{
+    width: 120px;
+    height: 70px;
+}
+
+.visa2{
+    width: 120px;
+    height: 70px;
+}
+
+.method{
+    margin-right: 35px;
+}
+
+.amount-input1{
+    width: 300px;
+    margin-left: 0px;
+}
+
+.wallet-input{
+    width: 300px;
+    margin-left: 0px;
+}
+
+.amount1{
+    margin-right: 270px;
+}
+
+.request{
+    width: 330px;
+    font-size: 16px;
+}
+
+.wallet{
+    margin-right: 250px;
+}
+
+
+}
+
+@media (max-width: 400px){
+
+.modalContainer2{
+    width: 300px;
+}
+
+.qiwi{
+    width: 100px;
+    height: 60px;
+}
+
+.visa{
+    width: 100px;
+    height: 60px;
+}
+
+.qiwi2{
+    width: 100px;
+    height: 60px;
+}
+
+.visa2{
+    width: 100px;
+    height: 60px;
+}
+
+.method{
+    margin-right: -5px;
+}
+
+.amount-input1{
+    width: 262px;
+    margin-left: 0px;
+}
+
+.wallet-input{
+    width: 262px;
+    margin-left: 0px;
+}
+
+.amount1{
+    margin-right: 235px;
+}
+
+.request{
+    width: 292px;
+    font-size: 16px;
+}
+
+.wallet{
+    margin-right: 213px;
+}
+
+
+}
+
+@media (max-width: 363px){
+
+    .modalContainer2{
+        width: 260px;
+    }
+    
+    .qiwi{
+        width: 80px;
+        height: 50px;
+    }
+    
+    .visa{
+        width: 80px;
+        height: 50px;
+    }
+    
+    .qiwi2{
+        width: 80px;
+        height: 50px;
+    }
+    
+    .visa2{
+        width: 80px;
+        height: 50px;
+    }
+    
+    .method{
+        margin-right: -12px;
+        font-size: 16px;
+    }
+    
+    .amount-input1{
+        width: 220px;
+        margin-left: 0px;
+    }
+    
+    .wallet-input{
+        width: 220px;
+        margin-left: 0px;
+    }
+    
+    .amount1{
+        margin-right: 190px;
+    }
+    
+    .request{
+        width: 250px;
+        font-size: 14px;
+    }
+    
+    .wallet{
+        margin-right: 170px;
+    }
+    
+    
+    }

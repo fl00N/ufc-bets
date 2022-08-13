@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./logInFormInput.css";
+import "./adaptiveSecondNavBar.css"
 
 const FormInput = (props) => {
   const [focused, setFocused] = useState(false);

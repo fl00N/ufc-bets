@@ -53,6 +53,32 @@ function SignInModal({ setOpenModal }) {
     setValues({ ...values, [e.target.name]: e.target.value });
   };
 
+  const textBets = document.querySelector('.weHaveBets')
+  const signUpBtn = document.querySelector('.signUp')
+  const logInBtn = document.querySelector('.logIn')
+
+  const replenish = document.querySelector('.replenish')
+  const withdraw = document.querySelector('.withdraw')
+  const balance = document.querySelector('.balance')
+  const historyBets = document.querySelector('.historyBets')
+
+  const register = () => {
+    {
+      alert("Регистрация прошла успешно!")
+    }
+
+    setOpenModal(false)
+    textBets.style.display = 'none'
+    signUpBtn.style.display = 'none'
+    logInBtn.style.display = 'none'
+
+    replenish.style.display = 'inline-flex'
+    withdraw.style.display = 'inline-flex'
+    balance.style.display = 'block'
+    historyBets.style.display = 'inline-flex'
+
+  }
+
     return (
       <div className="modalBackground">
         <div className="modalContainer">
@@ -79,7 +105,12 @@ function SignInModal({ setOpenModal }) {
                   onChange={onChange}
                 />
               ))}
-              <button type="submit" className="registration">ЗАРЕГИСТРИРОВТЬСЯ</button>
+              <button onClick={register}
+                      type="submit" 
+                      className="registration"
+                      >
+                      ЗАРЕГИСТРИРОВАТЬСЯ
+              </button>
             </form>
             
           </div>

@@ -178,13 +178,6 @@
     font-size: 1.7rem;
     text-align: center;
 }
-  
-.modalContainer .footer {
-    flex: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .registration{
     width: 487px;
@@ -246,5 +239,187 @@
     flex-direction: column;
     padding: 25px;
     margin-top: 0px;
+    align-items: center;
 }
+
+.titleCloseBtn1 {
+    display: flex;
+    justify-content: flex-end;
+}
+  
+.titleCloseBtn1 button {
+    z-index: 1;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    margin-left: 450px;
+}
+
+.balance{
+    display: none;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 0.42px;
+    color: #fff;
+    margin-left: 50px;
+}
+
+
+.historyBets{
+    display: none;
+    width: 260px;
+    height: 55px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    line-height: 1.75;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-color: currentColor;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.historyBets:hover{
+    background-color: #9c000a57;
+    color: white;
+}
+
+.replenish{
+    display: none;
+    width: 290px;
+    height: 55px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    line-height: 1.75;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-color: currentColor;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+.replenish:hover{
+    background-color: #9c000a57;
+    color: white;
+}
+
+
+.withdraw{
+    display: none;
+    width: 150px;
+    height: 55px;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    line-height: 1.75;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    min-width: 64px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-color: currentColor;
+    font-size: 18px;
+    margin-right: 98px;
+}
+
+.withdraw:hover{
+    background-color: #9c000a57;
+    color: white;
+}
+
 

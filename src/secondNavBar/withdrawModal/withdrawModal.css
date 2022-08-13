@@ -1,0 +1,136 @@
+.modalContainer2{
+    width: 420px;
+    border-radius: 12px;
+    background-color: #2a2c33;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin-top: 0px;
+}
+
+.modalContainer2 .title2{
+    font-family: 'Gilroy-Bold', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    margin-top: -30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+}
+
+.amount1{
+    font-size: 18px;
+    color: white;
+    margin-right: 335px;
+    font-family: Gilroy-Bold, sans-serif;
+}
+
+.amount-input1{
+    width: 365px;
+}
+
+.wallet-input{
+    width: 365px;
+}
+
+.wallet{
+    font-size: 18px;
+    color: white;
+    margin-right: 315px;
+    font-family: Gilroy-Bold, sans-serif;
+}
+
+.method{
+    font-size: 18px;
+    color: white;
+    font-family: Gilroy-Bold, sans-serif;
+    margin-right: 100px;
+    margin-bottom: -40px;
+}
+
+.request{
+    width: 395px;
+    height: 46px;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    background-color: #d13131;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.qiwi{
+    object-fit: scale-down;
+    width: 152px;
+    height: 80px;
+    border: #3c3f4a;
+    background-color: #3c3f4a;
+    cursor: pointer;
+    padding: 20px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    
+}
+
+.qiwi:focus{
+    background-color: #d13131;
+}
+
+.visa{
+    object-fit: scale-down;
+    width: 152px;
+    height: 80px;
+    border: #3c3f4a;
+    background-color: #3c3f4a;
+    cursor: pointer;
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.visa:focus{
+    background-color: #d13131;
+}
+
+.qiwi2{
+    object-fit: scale-down;
+    width: 152px;
+    height: 80px;
+    border: #3c3f4a;
+    background-color: #3c3f4a;
+    cursor: pointer;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.qiwi2:focus{
+    background-color: #d13131;
+}
+
+.visa2{
+    object-fit: scale-down;
+    width: 152px;
+    height: 80px;
+    border: #3c3f4a;
+    background-color: #3c3f4a;
+    cursor: pointer;
+    padding: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.visa2:focus{
+    background-color: #d13131;
+}
