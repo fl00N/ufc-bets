@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./secondNavBar.css";
 import "./adaptiveSecondNavBar.css";
-import SignInModal from './signInModal.js'
-import LogInModal from './logInModal.js'
+import SignInModal from './modal/signInModal.js'
+import LogInModal from './modal/logInModal.js'
 
 const SecondNavBar = () => {
 

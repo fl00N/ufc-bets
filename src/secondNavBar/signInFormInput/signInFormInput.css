@@ -1,0 +1,64 @@
+.formInput{
+    display: flex;
+    flex-direction: column;
+    width: 485px;
+}
+
+input{
+    padding: 15px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    outline: 0;
+    border: 0;
+    background-color: #3c3f4a;
+    color: white;
+}
+
+.label-email{
+    font-size: 18px;
+    color: white;
+    margin-right: 435px;
+    font-family: Gilroy-Bold, sans-serif;
+}
+
+.label-password{
+    font-size: 18px;
+    color: white;
+    margin-right: 415px;
+    font-family: Gilroy-Bold, sans-serif;
+}
+
+.label-password2{
+    width: 163px;
+    font-size: 18px;
+    color: white;
+    margin-right: 465px;
+    font-family: Gilroy-Bold, sans-serif;
+}
+
+
+.errorMessage-email{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+
+.errorMessage-password{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+
+.errorMessage-password2{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+
+input:invalid[focused="true"]{
+    border: 1px solid red;
+}
+
+input:invalid[focused="true"] ~ span{
+    display: block;
+}
