@@ -20,6 +20,30 @@
     margin-left: 580px;
 }
 
+.footerBet1{
+    margin-left: 380px;
+}
+
+.footerBet2561{
+    margin-left: 580px;
+}
+
+.registeredFooterBet{
+    margin-left: 380px;
+}
+
+.registeredFooterBet256{
+    margin-left: 580px;
+}
+
+.registeredFooterBet1{
+    margin-left: 380px;
+}
+
+.registeredFooterBet2561{
+    margin-left: 580px;
+}
+
 .footerImgOfDustin{
     margin-left: 700px;
 }
@@ -54,6 +78,30 @@
 }
 
 .footerBet256{
+    margin-left: 510px;
+}
+
+.footerBet1{
+    margin-left: 345px;
+}
+
+.footerBet2561{
+    margin-left: 510px;
+}
+
+.registeredFooterBet{
+    margin-left: 345px;
+}
+
+.registeredFooterBet256{
+    margin-left: 510px;
+}
+
+.registeredFooterBet1{
+    margin-left: 345px;
+}
+
+.registeredFooterBet2561{
     margin-left: 510px;
 }
 
@@ -106,6 +154,25 @@
     margin-top: 49px;
 }
 
+.footerBet1{
+    width: 105px;
+    margin-left: 74px;
+    margin-top: 49px;
+}
+
+
+.registeredFooterBet{
+    width: 105px;
+    margin-left: 74px;
+    margin-top: 49px;
+}
+
+.registeredFooterBet1{
+    width: 105px;
+    margin-left: 74px;
+    margin-top: 49px;
+}
+
 .redVS{
     margin-left: 0px;
 }
@@ -128,6 +195,22 @@
     width: 105px;
     margin-left: 343px;
 }
+
+.footerBet2561{
+    width: 105px;
+    margin-left: 343px;
+}
+
+.registeredFooterBet256{
+    width: 105px;
+    margin-left: 343px;
+}
+
+.registeredFooterBet2561{
+    width: 105px;
+    margin-left: 343px;
+}
+
 
 .footerImgOfConor1{
     width: 135px;
@@ -185,6 +268,18 @@
     margin-left: 20px;
 }
 
+.footerBet1{
+    margin-left: 20px;
+}
+
+.registeredFooterBet{
+    margin-left: 20px;
+}
+
+.registeredFooterBet1{
+    margin-left: 20px;
+}
+
 .time10{
     margin-left: 140px;
 }
@@ -211,6 +306,18 @@
 }
 
 .footerBet256{
+    margin-left: 295px;
+}
+
+.footerBet2561{
+    margin-left: 295px;
+}
+
+.registeredFooterBet256{
+    margin-left: 295px;
+}
+
+.registeredFooterBet2561{
     margin-left: 295px;
 }
 
@@ -250,6 +357,18 @@
     margin-left: 236px
 }
 
+.footerBet2561{
+    margin-left: 236px
+}
+
+.registeredFooterBet256{
+    margin-left: 236px
+}
+
+.registeredFooterBet2561{
+    margin-left: 236px
+}
+
 }
 
 @media (max-width: 450px){
@@ -270,6 +389,18 @@
     margin-left: 5px;
 }
 
+.footerBet1{
+    margin-left: 5px;
+}
+
+.registeredFooterBet{
+    margin-left: 5px;
+}
+
+.registeredFooterBet1{
+    margin-left: 5px;
+}
+
 .footerImgOfConor1{
     margin-left: -10px;
 }
@@ -287,6 +418,18 @@
 }
 
 .footerBet256{
+    margin-left: 200px;
+}
+
+.footerBet2561{
+    margin-left: 200px;
+}
+
+.registeredFooterBet256{
+    margin-left: 200px;
+}
+
+.registeredFooterBet2561{
     margin-left: 200px;
 }
 
@@ -362,7 +505,49 @@
     margin-top: 40px;
 }
 
+.footerBet1{
+    width: 90px;
+    height: 50px;
+    margin-left: -5px;
+    margin-top: 40px;
+}
+
+.registeredFooterBet{
+    width: 90px;
+    height: 50px;
+    margin-left: -5px;
+    margin-top: 40px;
+}
+
+.registeredFooterBet1{
+    width: 90px;
+    height: 50px;
+    margin-left: -5px;
+    margin-top: 40px;
+}
+
 .footerBet256{
+    width: 90px;
+    height: 50px;
+    margin-left: 155px;
+    margin-top: -50px;
+}
+
+.footerBet2561{
+    width: 90px;
+    height: 50px;
+    margin-left: 155px;
+    margin-top: -50px;
+}
+
+.registeredFooterBet256{
+    width: 90px;
+    height: 50px;
+    margin-left: 155px;
+    margin-top: -50px;
+}
+
+.registeredFooterBet2561{
     width: 90px;
     height: 50px;
     margin-left: 155px;

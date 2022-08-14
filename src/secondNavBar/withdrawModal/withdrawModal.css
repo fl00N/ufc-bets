@@ -26,7 +26,7 @@
     font-size: 18px;
     color: white;
     margin-right: 335px;
-    font-family: Gilroy-Bold, sans-serif;
+    font-family: 'Gilroy-Bold', sans-serif;
 }
 
 .amount-input1{
@@ -41,7 +41,7 @@
     font-size: 18px;
     color: white;
     margin-right: 315px;
-    font-family: Gilroy-Bold, sans-serif;
+    font-family: 'Gilroy-Bold', sans-serif;
 }
 
 .method{
@@ -69,6 +69,14 @@
     background-color: #d13131;
     margin-top: 20px;
     cursor: pointer;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.request:hover{
+    background-color: #d13131c0;
 }
 
 .qiwi{
@@ -81,11 +89,19 @@
     padding: 20px;
     margin-bottom: 5px;
     margin-top: 15px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
     
 }
 
 .qiwi:focus{
     background-color: #d13131;
+}
+
+.qiwi:hover{
+    background-color: #a82121;
 }
 
 .visa{
@@ -98,10 +114,18 @@
     padding: 20px;
     margin-left: 10px;
     margin-bottom: 5px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
 }
 
 .visa:focus{
     background-color: #d13131;
+}
+
+.visa:hover{
+    background-color: #a82121;
 }
 
 .qiwi2{
@@ -113,6 +137,14 @@
     cursor: pointer;
     padding: 20px;
     margin-bottom: 10px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.qiwi2:hover{
+    background-color: #a82121;
 }
 
 .qiwi2:focus{
@@ -129,6 +161,14 @@
     padding: 20px;
     margin-left: 10px;
     margin-bottom: 10px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.visa2:hover{
+    background-color: #a82121;
 }
 
 .visa2:focus{

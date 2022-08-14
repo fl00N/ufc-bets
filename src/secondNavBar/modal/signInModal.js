@@ -2,6 +2,7 @@ import React, { useState} from "react";
 import '../secondNavBar.css'
 import '../adaptiveSecondNavBar.css'
 import FormInput from "../signInFormInput/signInFormInput.js";
+import FooterBox from '../../footerBox/footerBox.js'
 
 function SignInModal({ setOpenModal }) {
 
@@ -62,6 +63,18 @@ function SignInModal({ setOpenModal }) {
   const balance = document.querySelector('.balance')
   const historyBets = document.querySelector('.historyBets')
 
+  const footerBet = document.querySelector('.footerBet')
+  const footerBet256 = document.querySelector('.footerBet256')
+
+  const footerBet1 = document.querySelector('.footerBet1')
+  const footerBet2561 = document.querySelector('.footerBet2561')
+
+  const registeredFooterBet = document.querySelector('.registeredFooterBet')
+  const registeredFooterBet256 = document.querySelector('.registeredFooterBet256')
+  
+  const registeredFooterBet1 = document.querySelector('.registeredFooterBet1')
+  const registeredFooterBet2561 = document.querySelector('.registeredFooterBet2561')
+
   const register = () => {
     {
       alert("Регистрация прошла успешно!")
@@ -71,6 +84,16 @@ function SignInModal({ setOpenModal }) {
     textBets.style.display = 'none'
     signUpBtn.style.display = 'none'
     logInBtn.style.display = 'none'
+
+    footerBet.style.display = 'none'
+    footerBet256.style.display = 'none'
+    footerBet1.style.display = 'none'
+    footerBet2561.style.display = 'none'
+
+    registeredFooterBet.style.display = 'block'
+    registeredFooterBet256.style.display = 'block'
+    registeredFooterBet1.style.display = 'block'
+    registeredFooterBet2561.style.display = 'block'
 
     replenish.style.display = 'inline-flex'
     withdraw.style.display = 'inline-flex'

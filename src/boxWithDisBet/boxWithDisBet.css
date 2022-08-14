@@ -99,7 +99,7 @@
 }
 
 .betWithLock{
-    background-color: #6c757d;
+    background-color: rgba(255, 255, 255, 0.16);
     border: 0;
     border-radius: 5px;
     width: 111px;
@@ -111,7 +111,7 @@
 .disBet-157{
     font-family: Gilroy-bold, sans-serif;
     font-size: 18px;
-    background-color: #6c757d;
+    background-color: rgba(255, 255, 255, 0.16);
     border: 0;
     border-radius: 5px;
     color: white;

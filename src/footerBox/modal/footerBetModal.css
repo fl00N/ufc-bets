@@ -1,0 +1,295 @@
+.modalContainer4{
+    width: 420px;
+    height: 600px;
+    border-radius: 12px;
+    background-color: #2a2c33;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin-top: 0px;
+}
+
+.tour{
+    font-family: 'Gilroy-Regular', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.date02{
+    font-family: 'Gilroy-Regular', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.time12{
+    font-family: 'Gilroy-Regular', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+    font-size: 14px;
+}
+
+.ConorDustin2{
+    font-family: 'Gilroy-Medium', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+    margin-top: 30px;
+    margin-right: 0px;
+    font-size: 14px;
+}
+
+.imgOfConorModal{
+    width: 150px;
+    height: 110px;
+    margin-right: 300px;
+    margin-top: 25px;
+}
+
+.imgOfDustinModal{
+    width: 150px;
+    height: 110px;
+    margin-left: 43px;
+    margin-top: 25px;
+}
+
+.vsModal{
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.divOfBet{
+    display: flex;
+}
+
+.ConorModal{
+    font-family: 'Gilroy-Bold', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+    margin-left: -442px;
+    margin-top: 145px;
+}
+
+.DustinModal{
+    font-family: 'Gilroy-Bold', sans-serif;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 1.13px;
+    margin-top: 145px;
+    margin-left: -130px;
+}
+
+.betModal{
+    font-family: 'Gilroy-bold', sans-serif;
+    background-color: rgba(255, 255, 255, 0.16);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    width: 110px;
+    height: 54px;
+    font-size: 26px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-top: 175px;
+    margin-left: -125px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.betModal:hover{
+    background-color: rgba(255, 255, 255, 0.32);
+}
+
+.betModal:focus{
+    background-color: rgba(255, 255, 255, 0.32);
+}
+
+.betModal256{
+    font-family: 'Gilroy-bold', sans-serif;
+    background-color: rgba(255, 255, 255, 0.16);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    width: 110px;
+    height: 54px;
+    font-size: 26px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-top: 175px;
+    margin-left: -112px;
+    cursor: pointer;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.betModal256:hover{
+    background-color: rgba(255, 255, 255, 0.32);
+}
+
+.betModal256:focus{
+    background-color: rgba(255, 255, 255, 0.32);
+}
+
+.amountOfBet{
+    font-size: 18px;
+    color: white;
+    font-family: 'Gilroy-Bold', sans-serif;
+    margin-right: 270px;
+}
+
+.amountOfBet-input{
+    width: 365px;
+    margin-bottom: 30px;
+}
+
+.textPotentialWin{
+    font-size: 18px;
+    color: white;
+    font-family: 'Gilroy-Bold', sans-serif;
+    margin-left: 15px;
+}
+
+.potentialWin{
+    font-size: 18px;
+    color: white;
+    font-family: 'Gilroy-Bold', sans-serif;
+    margin-left: 120px;
+
+}
+
+.divOfPotentialWin{
+    display: flex;
+}
+
+.placeABet{
+    font-family: 'Gilroy-bold', sans-serif;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0.16);
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    width: 395px;
+    height: 56px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin-top: 30px;
+    cursor: pointer;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, 
+                border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+                color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.placeABet:hover{
+    background-color: rgba(255, 255, 255, 0.32);
+}

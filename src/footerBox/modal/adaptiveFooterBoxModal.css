@@ -1,0 +1,156 @@
+@media (max-width: 486px){
+
+.modalContainer4{
+    width: 300px;
+}
+
+.imgOfConorModal{
+    width: 120px;
+    height: 90px;
+    margin-left: -12px;
+    margin-right: -10px;
+}
+
+.imgOfDustinModal{
+    width: 120px;
+    height: 90px;
+    margin-right: 19px;
+    margin-left: 30px;
+}
+
+.ConorModal{
+    margin-top: 120px;
+    margin-left: -105px;
+    font-size: 12px;
+}
+
+.DustinModal{
+    margin-top: 120px;
+    font-size: 12px;
+    margin-left: -125px;
+}
+
+.betModal{
+    width: 90px;
+    margin-top: 150px;
+    margin-left: -100px;
+}
+
+.betModal256{
+    width: 90px;
+    margin-top: 150px;
+    margin-left: -92px;
+}
+
+.vsModal{
+    font-size: 22px;
+}
+
+.amountOfBet-input{
+    width: 280px;
+    margin-left: -5px;
+}
+
+.amountOfBet{
+    margin-right: 180px;
+}
+
+.textPotentialWin{
+    font-size: 14px;
+    margin-left: 0px;
+}
+
+.potentialWin{
+    font-size: 14px;
+    margin-left: 80px;
+}
+
+.placeABet{
+    width: 310px;
+    margin-left: -5px;
+}
+
+
+}
+
+@media (max-width: 365px){
+
+    .modalContainer4{
+        width: 250px;
+        height: 550px;
+    }
+    
+    .imgOfConorModal{
+        width: 100px;
+        height: 70px;
+        margin-left: -16px;
+        margin-right: -12px;
+    }
+    
+    .imgOfDustinModal{
+        width: 100px;
+        height: 70px;
+        margin-right: 25px;
+        margin-left: 30px;
+    }
+    
+    .ConorModal{
+        font-size: 10px;
+        margin-top: 100px;
+        margin-left: -85px;
+    }
+    
+    .DustinModal{
+        font-size: 10px;
+        margin-top: 100px;
+        margin-left: -115px;
+    }
+    
+    .betModal{
+        width: 70px;
+        height: 45px;
+        margin-top: 120px;
+        margin-left: -85px;
+        font-size: 20px;
+    }
+    
+    .betModal256{
+        width: 70px;
+        height: 45px;
+        margin-top: 120px;
+        margin-left: -78px;
+        font-size: 20px;
+    }
+    
+    .vsModal{
+        font-size: 18px;
+    }
+    
+    .amountOfBet-input{
+        width: 230px;
+        margin-left: -5px;
+    }
+    
+    .amountOfBet{
+        margin-right: 155px;
+        font-size: 14px;
+    }
+    
+    .textPotentialWin{
+        font-size: 12px;
+        margin-left: 0px;
+    }
+    
+    .potentialWin{
+        font-size: 12px;
+        margin-left: 60px;
+    }
+    
+    .placeABet{
+        width: 260px;
+        margin-left: -5px;
+        font-size: 16px;
+    }
+    
+    
+    }
