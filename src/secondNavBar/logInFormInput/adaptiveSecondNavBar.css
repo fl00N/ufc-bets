@@ -119,6 +119,11 @@
     margin-left: 35px;
 }
 
+.errorMessage-password{
+    width: 350px;
+    margin-left: 65px;
+}
+
 input{
     width: 387px;
     margin-left: 35px;
@@ -373,6 +378,16 @@ input{
 .logInModal{
     width: 267px;
     margin-left: -10px;
+}
+
+.errorMessage-password{
+    width: 300px;
+    margin-left: 93px;
+}
+
+.errorMessage-email{
+    width: 250px;
+    margin-left: 115px;
 }
 
 }

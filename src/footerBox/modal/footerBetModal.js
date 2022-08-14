@@ -44,7 +44,7 @@ function FooterBetModal({ setOpenModal5 }) {
             </div>
 
             <span className="amountOfBet">Сумма Ставки</span>
-            <input className="amountOfBet-input" placeholder='Введите сумму ставки'/>
+            <input type="number" className="amountOfBet-input" placeholder='Введите сумму ставки'/>
 
             <div className="divOfPotentialWin">
 

@@ -1,3 +1,11 @@
+@media (max-width: 563px){
+
+.amountOfBet-input{
+    margin-left: 0px;
+}
+
+}
+
 @media (max-width: 486px){
 
 .modalContainer4{
